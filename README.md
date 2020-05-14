@@ -1,0 +1,2 @@
+# yoclone
+ yo clone
